@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file with added section links:
-
 # IPL Cricket Match Analysis Tool
 
 ## Table of Contents
